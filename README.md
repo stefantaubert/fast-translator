@@ -3,6 +3,11 @@ I have developed a program which translates words from various languages into ot
 For transation you must only copy the word to the clipboard and it will be transated automaticly.
 You can switch between languages by clicking right on the taskbar entry.
 
+For compiling you need to install this nuget package:
+```
+Install-Package winapicp -Version 1.1.0
+```
+
 # Screenshot
 
 <p align="center">
